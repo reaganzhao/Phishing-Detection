@@ -15,4 +15,4 @@ We used scikit-learn classification models such as logistic regression, random f
 KNN Classifiers as well as Gradient Boosting. The best model comes with Gradient boosting estimators=500, 
 max_depth = 5 and learning rate=0.5.
 
-Thanks to Prof. @https://github.com/brianspiering for his guidance and support on this school project. Also, thanks to my teammates yaoliu622 and darenma for their contribution.
+Thanks to Prof. @github/brianspiering for his guidance and support on this school project. Also, thanks to my teammates yaoliu622 and darenma for their contribution.
